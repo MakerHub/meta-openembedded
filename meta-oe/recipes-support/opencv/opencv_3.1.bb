@@ -7,8 +7,6 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=0ea90d28b4de883d7af5e6711f14f7bf"
 
 ARM_INSTRUCTION_SET = "arm"
 
-DEFAULT_PREFERENCE = "-1"
-
 DEPENDS = "python-numpy libtool swig swig-native python bzip2 zlib glib-2.0 libwebp"
 
 SRCREV_opencv = "92387b1ef8fad15196dd5f7fb4931444a68bc93a"
